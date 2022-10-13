@@ -1,0 +1,20 @@
+ ul{
+    list-style: none;   /*убирает маркера */
+    display: flex;
+    margin: 35px 0;
+ 
+}
+
+a{
+    padding: 16px;
+    
+    margin: 2px;
+    
+    text-decoration: none;  /*убирает подчёркивание*/
+    border-radius: 15px;
+    transition: .3s; /*плавный переход при наведении мышки*/
+} 
+img{
+     cursor: pointer; /*признак кликабельности элемента */
+
+}
